@@ -33,5 +33,7 @@ Upon successful completion of this task and submission of the functional model w
 Organization:
 
 The repository will be organized in a clear and logical manner to facilitate understanding and execution of the project.
+
 output:
+
 ![Image](https://github.com/user-attachments/assets/30a140b5-0ae1-43d9-8dbb-53ff4aadd36f)
